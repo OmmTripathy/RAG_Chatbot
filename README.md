@@ -2,6 +2,9 @@
 
 A simple Retrieval-Augmented Generation (RAG) application that lets you upload a PDF and ask questions about its content. Built with a full RAG pipeline: PDF ingestion → semantic chunking → vector search → LLM generation.
 
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ragchatbot-ai-o.streamlit.app/)
+
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)](https://langchain.com)
